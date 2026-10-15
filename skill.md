@@ -1,5 +1,5 @@
 ---
-name:sharing
+name: sharing
 description: "盛付通平台商分账外部商户接入入口：分账、分账查询、分账回退、回退查询、添加/删除分账接收方、查询订单待分账金额、分账结果通知、退分账结果通知、自动解冻通知。Use when user mentions 平台商分账, 分账, 分账查询, 分账回退, 回退查询, 分账接收方, 待分账金额, 分账通知。"
 user-invocable: true
 argument-hint: 描述平台商分账接入场景，例如：Java 接入分账、回退和分账结果通知
